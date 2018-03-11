@@ -1,4 +1,4 @@
-Copied from (StackOverflow)[https://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-vim-command-line/3997110]
+Copied from [StackOverflow](https://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-vim-command-line/3997110)
 
 I'd like to paste yanked text into Vim command line. Is it possible?
 
